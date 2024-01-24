@@ -1,6 +1,6 @@
-import turtle as t
+import turtle 
 import random
-
+t = turtle.Turtle()
 tim = t.Turtle()
 t.colormode(255)
 
